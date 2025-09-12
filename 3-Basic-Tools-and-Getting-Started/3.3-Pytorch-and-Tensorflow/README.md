@@ -180,6 +180,7 @@ Choose the correct wheel file based on your JetPack and CUDA version:
         PyTorch v2.2 - torchvision v0.17.1
         PyTorch v2.3 - torchvision v0.18.0
         PyTorch v2.5 - torchvision v0.20.0
+        PyTorch v2.9 - torchvision v0.24.0
         ```
     - Install
         ```bash

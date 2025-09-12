@@ -93,7 +93,7 @@ Choose the correct wheel file based on your JetPack and CUDA version:
 
   - [torchvision 0.20](https://seeedstudio88-my.sharepoint.com/:u:/g/personal/youjiang_yu_seeedstudio88_onmicrosoft_com/EbaNmRnWK9BHiYRpX4G1VdYBCsxh9qtdQHtsxEN5nAUJhw?e=liIOJ0)
   
-  If torchvision reports an error, please uninstall it and refer to the subsequent steps to compile torchvision 0.20.0 via code.
+    If torchvision reports an error, please uninstall it and refer to the subsequent steps to compile torchvision 0.20.0 via code.
 
 
   also [Torch-TensorRT in JetPack](https://docs.pytorch.org/TensorRT/getting_started/jetpack.html)
@@ -177,6 +177,7 @@ Choose the correct wheel file based on your JetPack and CUDA version:
         PyTorch v2.1 - torchvision v0.16.1
         PyTorch v2.2 - torchvision v0.17.1
         PyTorch v2.3 - torchvision v0.18.0
+        PyTorch v2.5 - torchvision v0.20.0
         ```
     - Install
         ```bash

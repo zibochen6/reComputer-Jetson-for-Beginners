@@ -84,7 +84,9 @@ To install PyTorch on your reComputer J3010 with the specified JetPack and CUDA 
 
 Choose the correct wheel file based on your JetPack and CUDA version:
 
-
+- **JetPack 7**:
+  - [PyTorch 2.9](https://seeedstudio88-my.sharepoint.com/:u:/g/personal/youjiang_yu_seeedstudio88_onmicrosoft_com/EVe_c8F4DR9CluC049HCYoMBhHsIH0QMDQF2Q_kPEWOMcQ?e=xaW7vC))
+  - [Torchvision](https://seeedstudio88-my.sharepoint.com/:u:/g/personal/youjiang_yu_seeedstudio88_onmicrosoft_com/ESDkmxLfCW1MkI8YBfrdWVABKNXimZSq0qcDoApbzJazZw?e=8JOUMy)
 
 - **JetPack 6.1 & 6.2 (L4T R36.4) + CUDA 12.6**:
   - [PyTorch 2.5](https://seeedstudio88-my.sharepoint.com/:u:/g/personal/youjiang_yu_seeedstudio88_onmicrosoft_com/EXZ8MsYzCYdGjR9g3tQwnAIBj1kJodvl-9XQVa9U8XFPZA?e=QJntmH)

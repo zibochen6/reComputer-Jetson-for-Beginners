@@ -89,13 +89,19 @@ Choose the correct wheel file based on your JetPack and CUDA version:
   - [Torchvision 0.24](https://seeedstudio88-my.sharepoint.com/:u:/g/personal/youjiang_yu_seeedstudio88_onmicrosoft_com/ESDkmxLfCW1MkI8YBfrdWVABKNXimZSq0qcDoApbzJazZw?e=8JOUMy)
 
 - **JetPack 6.1 & 6.2 (L4T R36.4) + CUDA 12.6**:
+  
+  - [PyTorch 2.7]([torch-2.7.0-cp310-cp310-linux_aarch64.whl](https://seeedstudio88-my.sharepoint.com/:u:/g/personal/youjiang_yu_seeedstudio88_onmicrosoft_com/EW2ke8EPcVhGsM2mjCMQOWEBcEuOA45rxNmC0FlkBfhPPg?e=bJ0bOz))
+  
+  - [torchvision 0.22.0]([torchvision-0.22.0-cp310-cp310-linux_aarch64.whl](https://seeedstudio88-my.sharepoint.com/:u:/g/personal/youjiang_yu_seeedstudio88_onmicrosoft_com/EXyam8X0U3VNqmio2ZBM6osB1IDAurgvkd6JAsJLnahTcA?e=p85hdo))
+  
   - [PyTorch 2.5](https://seeedstudio88-my.sharepoint.com/:u:/g/personal/youjiang_yu_seeedstudio88_onmicrosoft_com/EXZ8MsYzCYdGjR9g3tQwnAIBj1kJodvl-9XQVa9U8XFPZA?e=QJntmH)
- 
+  
     if `ImportError: libcusparseLt.so.0: cannot open shared object file: No such file or directory`, install new version [cuSPARSELt 0.8.1](https://developer.nvidia.com/cusparselt-downloads?target_os=Linux&target_arch=aarch64-jetson&Compilation=Native&Distribution=Ubuntu&target_version=22.04&target_type=deb_local) (Select Linux>arrch64-jetson>Native>Ubuntu>22.04>deb(Local)) and [CUDA 12.6](https://developer.nvidia.com/cuda-12-6-0-download-archive?target_os=Linux&target_arch=aarch64-jetson&Compilation=Native&Distribution=Ubuntu&target_version=22.04&target_type=deb_local) (Select Linux>arrch64-jetson>Native>Ubuntu>22.04>deb(Local))
-
+  
   - [torchvision 0.20](https://seeedstudio88-my.sharepoint.com/:u:/g/personal/youjiang_yu_seeedstudio88_onmicrosoft_com/EbaNmRnWK9BHiYRpX4G1VdYBCsxh9qtdQHtsxEN5nAUJhw?e=liIOJ0)
   
     If torchvision reports an error, please uninstall it and refer to the subsequent steps to compile torchvision 0.20.0 via code.
+  
 
 
   also [Torch-TensorRT in JetPack](https://docs.pytorch.org/TensorRT/getting_started/jetpack.html)

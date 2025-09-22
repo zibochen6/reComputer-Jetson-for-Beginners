@@ -90,9 +90,9 @@ Choose the correct wheel file based on your JetPack and CUDA version:
 
 - **JetPack 6.1 & 6.2 (L4T R36.4) + CUDA 12.6**:
   
-  - [PyTorch 2.7]([torch-2.7.0-cp310-cp310-linux_aarch64.whl](https://seeedstudio88-my.sharepoint.com/:u:/g/personal/youjiang_yu_seeedstudio88_onmicrosoft_com/EW2ke8EPcVhGsM2mjCMQOWEBcEuOA45rxNmC0FlkBfhPPg?e=bJ0bOz))
+  - [PyTorch 2.7](https://seeedstudio88-my.sharepoint.com/:u:/g/personal/youjiang_yu_seeedstudio88_onmicrosoft_com/EW2ke8EPcVhGsM2mjCMQOWEBcEuOA45rxNmC0FlkBfhPPg?e=bJ0bOz)
   
-  - [torchvision 0.22.0]([torchvision-0.22.0-cp310-cp310-linux_aarch64.whl](https://seeedstudio88-my.sharepoint.com/:u:/g/personal/youjiang_yu_seeedstudio88_onmicrosoft_com/EXyam8X0U3VNqmio2ZBM6osB1IDAurgvkd6JAsJLnahTcA?e=p85hdo))
+  - [torchvision 0.22.0](https://seeedstudio88-my.sharepoint.com/:u:/g/personal/youjiang_yu_seeedstudio88_onmicrosoft_com/EXyam8X0U3VNqmio2ZBM6osB1IDAurgvkd6JAsJLnahTcA?e=p85hdo)
   
   - [PyTorch 2.5](https://seeedstudio88-my.sharepoint.com/:u:/g/personal/youjiang_yu_seeedstudio88_onmicrosoft_com/EXZ8MsYzCYdGjR9g3tQwnAIBj1kJodvl-9XQVa9U8XFPZA?e=QJntmH)
   

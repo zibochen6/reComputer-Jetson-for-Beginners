@@ -11,6 +11,10 @@ Explore a broad range of topics from Jetson platform basics to generative AI dep
 | Module 3.2  | [AI and ML](./3-Basic-Tools-and-Getting-Started/3.2-AI-and-ML/README.md) |
 | Module 3.3  | [Pytorch and TensorFlow](./3-Basic-Tools-and-Getting-Started/3.3-Pytorch-and-Tensorflow/README.md) |
 | Module 3.4  | [CUDA](./3-Basic-Tools-and-Getting-Started/3.4-CUDA/README.md) |
+| Module 3.5 | [TensorRT](./3-Basic-Tools-and-Getting-Started/3.5-TensorRT/README.md) |
+| Module 3.6 | [Docker](./3-Basic-Tools-and-Getting-Started/3.6-Docker/README.md) |
+| Module 3.7 | [ROS1/ROS2](./3-Basic-Tools-and-Getting-Started/3.7-ROS/README.md) |
+| Module 3.8 | [Opencv with CUDA](./3-Basic-Tools-and-Getting-Started/3.8-OpenCV-with-CUDA/README.md) |
 | **Module 4**| **Computer Vision Applications**                  |
 | Module 4.1|  [Overview-of-Computer-Vision](./4-Computer-Vision/4.1-Overview-of-Computer-Vision/README.md)|
 | Module 4.2|  [Real-time-Video-Processing](./4-Computer-Vision/4.2-Real-time-Video-Processing/README.md)|
